@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Redux Toolkit and React Query**
 
-- 👯 I’m looking to collaborate on **JavaSript and Front End Applications.**
+- 👯 I’m looking to collaborate on **JavaScript and Front End Applications.**
 
 - 🤝 I’m looking for help with **Learning Backend Developemnt specifically MERN Stack**
 

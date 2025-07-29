@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yogesh Bhavsar</h1>
 <h3 align="center">A passionate frontend developer from Mumbai, India</h3>
 
-<p align="left"> <img src="[[https://komarev.com/ghpvc/?username=yogeshu]](https://komarev.com/ghpvc/?username=yogeshu)" alt="yogeshu" /> </p>
+<p align="left"> <img src="[[https://komarev.com/ghpvc/?username=yogeshu]](https://komarev.com/ghpvc/?username=yogeshu)" alt="yogeshu" /> Yogeshu</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshu" alt="yogeshu" /></a> </p>
 

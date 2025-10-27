@@ -66,6 +66,12 @@
 
 ---
 
+### 🤝 Sponsor My Work  
+If you’d like to support me directly, you can sponsor me here: [https://github.com/sponsors/yogeshu](https://github.com/sponsors/yogeshu)
+
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">

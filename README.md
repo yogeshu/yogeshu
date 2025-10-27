@@ -84,3 +84,16 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yogeshu&theme=onedark&margin-w=15" alt="trophies" />
 </p>
+
+#### 🚀 Career & Community Highlights
+- 🧑‍🏫 **Mentored** junior developers and interns to grow in React & frontend careers  
+- 🛠️ Built multiple **open-source projects** to simplify workflows for developers  
+- 🧩 Contributed to **community learning** through articles, code examples & live help  
+- 💡 Created **custom tools** that improved productivity and developer experience  
+- ✨ Recognized for **practical teaching style** and simplifying complex concepts  
+- ❤️ Founder of *Makhanchor*, a creative poetry & expression platform  
+- 🌱 Always experimenting, learning, and sharing knowledge  
+
+---
+
+> “Build. Learn. Teach. Repeat.” — My simple philosophy as a developer.

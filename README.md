@@ -2,6 +2,9 @@
 <h3 align="center">Frontend Specialist (React/Next.js) | Tech Mentor | Published Author</h3>
 
 <p align="center">
+    <a href="[https://yogeshbhavsar.com](https://consult.yogeshbhavsar.com/)">
+    <img src="https://img.shields.io/badge/Consultation-https://consult.yogeshbhavsar.com-blue?style=for-the-badge&logo=googlesearchconsole" alt="Website" />
+  </a>
   <a href="https://yogeshbhavsar.com">
     <img src="https://img.shields.io/badge/Portfolio-yogeshbhavsar.com-blue?style=for-the-badge&logo=google-chrome" alt="Website" />
   </a>
@@ -29,7 +32,7 @@ Beyond the code, I am the author of the poetry book **"Love, Loss, and Life"** a
   - **Interview Prep Platform**: Currently developing a tool to help frontend devs crack interviews.
 - 🌱 **Learning:** Advanced Systems Design, Docker for Devs, and AI integration in Frontend.
 - 👯 **Mentorship:** I actively mentor freshers to help them break into the React ecosystem.
-- 💬 **Ask me about:** React Native, Next.js Architecture, and Self-publishing.
+- 💬 **Ask me about:** React Web, Next.js Architecture, and Self-publishing.
 
 ---
 

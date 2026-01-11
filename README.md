@@ -51,13 +51,7 @@ I build thoughtful frontend experiences and tools that make developers’ lives 
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogeshu&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yogeshu&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yogeshu&theme=tokyonight)
+### 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yogeshu&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshu&layout=compact&theme=tokyonight" alt="Top Languages" height="150" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=yogeshu&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> </p>
 
 ---
 

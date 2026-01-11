@@ -1,53 +1,63 @@
-# Hey 👋 I’m Yogesh Bhavsar
+<h1 align="center">Hi, I'm Yogesh Bhavsar 👋</h1>
+<h3 align="center">Frontend Specialist (React/Next.js) | Tech Mentor | Published Author</h3>
 
-### Frontend Developer • Mentor • Independent Creator
+<p align="center">
+  <a href="https://yogeshbhavsar.com">
+    <img src="https://img.shields.io/badge/Portfolio-yogeshbhavsar.com-blue?style=for-the-badge&logo=google-chrome" alt="Website" />
+  </a>
+  <a href="https://makhanchor.in">
+    <img src="https://img.shields.io/badge/Creative_Works-Makhanchor-purple?style=for-the-badge&logo=instagram" alt="Poetry" />
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yogeshu&label=Profile%20Views&color=brightgreen&style=flat)
-
----
-
-## 👨‍💻 About Me
-
-I build thoughtful frontend experiences and tools that make developers’ lives easier.
-
-- 🔭 Working with **React, Next.js & modern frontend tooling**
-- 🌱 Exploring **Redux Toolkit, React Query & MERN**
-- 🤝 Open to **frontend collaborations & open-source work**
-- 🧠 Known for **breaking down complex concepts simply**
-- 🛠️ Building **open-source + commercial tools** with real-world value
-- 💬 Ask me about **React patterns, architecture & UI decisions**
-- ⚡ I value clarity, consistency, and quiet discipline
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=yogeshu">
+    <img src="https://komarev.com/ghpvc/?username=yogeshu&label=Profile%20Views&color=brightgreen&style=flat" alt="profile views" />
+  </a>
+</p>
 
 ---
 
-## 🌍 Online Presence
+### 👨‍💻 About Me
 
-- 🤝 consultation for business: http://consult.yogeshbhavsar.com 
-- 🌐 Website: https://yogeshbhavsar.com  
-- 🎙️ Poetry & Expression: https://makhanchor.in  
-- 📧 Email: yogeshbhavsar1994@gmail.com  
+I am a **Senior Frontend Developer** based in Mumbai, India, passionate about building scalable web applications and intuitive user interfaces. I bridge the gap between complex engineering and human-centric design.
 
----
+Beyond the code, I am the author of the poetry book **"Love, Loss, and Life"** and the creator of **Makhanchor**, a platform for poetry and introspection.
 
-## 🤝 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/yogeshbhavsarui  
-- CodePen: https://codepen.io/yogesh31  
-- CodeSandbox: https://codesandbox.io/u/yogeshbhavsar1994  
-- Stack Overflow: https://stackoverflow.com/users/user12876817  
+- 🔭 **Building:** - **[YogiMetrics]**: A privacy-first custom tracker app.
+  - **[fastdl]**: A high-speed Node.js CLI tool for reliable downloads.
+  - **Interview Prep Platform**: Currently developing a tool to help frontend devs crack interviews.
+- 🌱 **Learning:** Advanced Systems Design, Docker for Devs, and AI integration in Frontend.
+- 👯 **Mentorship:** I actively mentor freshers to help them break into the React ecosystem.
+- 💬 **Ask me about:** React Native, Next.js Architecture, and Self-publishing.
 
 ---
 
-## 🛠️ Languages & Tools
+### 🛠️ Tech Stack & Arsenal
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,git,github,tailwind,webpack,vite,postman)
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## ☕ Support My Work
+### 🚀 Projects & Highlights
 
-- Buy Me a Coffee: https://www.buymeacoffee.com/yogeshui  
-- GitHub Sponsors: https://github.com/sponsors/yogeshu  
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **YogiMetrics** | A privacy-focused custom tracking application for personal analytics. | React, Node.js |
+| **fastdl** | A lightweight, reliable Node.js CLI tool for file downloads. | Node.js, CLI |
+| **Japa Counter** | A spiritual utility app for mantra meditation tracking. | React, PWA |
+| **Makhanchor.in** | The digital home for my poetry and creative writing. | Next.js |
 
 ---
 
@@ -55,14 +65,21 @@ I build thoughtful frontend experiences and tools that make developers’ lives 
 
 ---
 
-## 🏆 Highlights
+### 🤝 Connect & Support
 
-- 🧑‍🏫 Mentored juniors & interns in **React and frontend fundamentals**
-- 🛠️ Built **developer tools** used in real workflows
-- ✍️ Shared knowledge through **examples, guidance & direct help**
-- ❤️ Founder of **Makhanchor** — poetry, reflection, expression
-- 🌱 Always learning, refining, and shipping
+I believe in the philosophy: **"Build. Learn. Teach. Repeat."**
 
----
+<p align="left">
+  <a href="https://linkedin.com/in/yogeshbhavsarui" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://instagram.com/the.makhanchor" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://www.amazon.in/Love-Loss-Life-Yogesh-Bhavsar-ebook/dp/B0DX2JYDK8/" target="_blank"><img src="https://img.shields.io/badge/Amazon-My_Book-orange?style=for-the-badge&logo=amazon" /></a>
+</p>
 
-> **Build with intention. Learn continuously. Share selectively.**
+<p align="left">
+  <a href="https://www.buymeacoffee.com/yogeshui" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://github.com/sponsors/yogeshu">
+    <img src="https://img.shields.io/badge/Sponsor_on-GitHub-grey?style=for-the-badge&logo=github" height="40" />
+  </a>
+</p>
